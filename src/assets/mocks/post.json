@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "fullname": "Usup Suparma",
+      "avatar": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg"
+    },
+    "content": {
+      "caption": "In ipsum commodo eu sint excepteur enim laboris consectetur amet cupidatat est laborum. Ea incididunt non nostrud exercitation nisi mollit ea labore. Anim sunt mollit enim nulla cillum do culpa consequat sunt id incididunt fugiat qui voluptate. Nulla culpa cillum do sit anim nostrud esse. Duis ad fugiat do eiusmod ex aliquip irure sunt officia nisi minim sint consequat sunt. Minim aliquip ipsum nisi proident.",
+      "image": "https://img.freepik.com/free-photo/woman-working-table_1098-19392.jpg",
+      "likes": 376,
+      "comments": 37
+    },
+    "is_public": false,
+    "is_disappear": false,
+    "location": null,
+    "created_at": "2022-03-24T16:27:14.000Z"
+  },
+  {
+    "id": 2,
+    "user": {
+      "fullname": "Bayu Utomo",
+      "avatar": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg"
+    },
+    "content": {
+      "caption": null,
+      "image": "https://img.freepik.com/free-photo/horizontal-shot-serious-black-young-woman-stands-desktop_273609-44868.jpg",
+      "likes": 273,
+      "comments": 21
+    },
+    "is_public": true,
+    "is_disappear": true,
+    "location": "Cambridge",
+    "created_at": "2022-03-24T16:27:14.000Z"
+  },
+  {
+    "id": 3,
+    "user": {
+      "fullname": "Bayu Utomo",
+      "avatar": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg"
+    },
+    "content": {
+      "caption": "Duis anim consequat excepteur ipsum. Ad quis minim ea irure. Sint culpa adipisicing ut veniam do sit ullamco excepteur.",
+      "image": "https://img.freepik.com/premium-photo/discussion-successful-business-people-office_709984-8843.jpg",
+      "likes": 242,
+      "comments": 35
+    },
+    "is_public": true,
+    "is_disappear": true,
+    "location": "Cambridge",
+    "created_at": "2022-03-24T16:27:14.000Z"
+  }
+]
